@@ -44,7 +44,7 @@ def main():
 
         # Saída de dados
         print('\n Nome do País:', Entrada,
-              "\n Soma da importações do País:", soma_import, "\n Média das importações Anuais: ", media)
+              "\n Soma da importações do País:", soma_import, "\n Média das importações Anuais: ", media, '\n Ano de maior importação', ano_max)
 
 
 main()
